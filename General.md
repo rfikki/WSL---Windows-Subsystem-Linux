@@ -1,5 +1,7 @@
 # Windows Subsystem for Linux
 
+* [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* [https://docs.microsoft.com/en-us/windows/wsl/wsl2-install](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
 * [Development Linux Env on Windows 10](https://www.hanselman.com/blog/SettingUpAShinyDevelopmentEnvironmentWithinLinuxOnWindows10.aspx)
 * [WSL Faq](https://msdn.microsoft.com/en-us/commandline/wsl/faq)
 * [Files editing warning](https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/)
